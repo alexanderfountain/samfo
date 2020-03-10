@@ -1,0 +1,8 @@
+export const mobileWidth = "800px"
+export const tabletWidth = "1000px"
+export const desktopWidth = "1240px"
+export const darkgray = "#2E2E2E"
+export const gray = "#646671"
+export const lightgray = "#ebebeb"
+export const red = "#d23026"
+export const sectionPadding = "60px"

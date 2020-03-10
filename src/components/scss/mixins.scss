@@ -1,0 +1,15 @@
+@mixin cta-button($bg) {
+  background-color: $bg;
+  color: white;
+  padding: 12px 30px;
+  border: thin solid white;
+  border-radius: 4px;
+  text-decoration: none;
+  &:hover {
+    background: darken($bg, 8%);
+    transition: all 0.3s ease;
+  }
+  &:active {
+    background: darken($bg, 25%);
+  }
+}
