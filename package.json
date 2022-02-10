@@ -30,7 +30,7 @@
     "gatsby-source-prismic-graphql": "^3.3.1",
     "gatsby-transformer-sharp": "^2.3.14",
     "gatsby-v2-plugin-page-transitions": "^1.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "prismic-dom": "^2.1.0",
     "prismic-reactjs": "^0.3.2",
     "prismjs": "^1.19.0",
